@@ -1,0 +1,105 @@
+个人简介：--I am a senior software architect with extensive technical leadership experience focused on driving innovation and success in complex projects. My years of exploration in the areas of software design and system optimization have made me an expert in translating cutting-edge technologies into real-world products.
+
+--I believe that technology is the driver of change in the world and software architecture is the key to technology realizing the vision. As Chief Software Architect, my mission is to lead the team in building scalable, efficient and innovative software solutions that deliver unprecedented experiences to users around the world.
+
+--我是一名高级软件架构师，拥有丰富的技术领导经验，专注于推动复杂项目的创新和成功。我在软件设计和系统优化领域的多年探索使我成为将尖端技术转化为实际产品的专家。
+
+--我相信，技术是世界变革的驱动力，而软件架构则是技术实现愿景的关键。作为首席软件架构师，我的使命是带领团队构建可扩展、高效和创新的软件解决方案，为全球用户带来前所未有的体验。
+
+学校：University of Science and Technology of China 中国科技大学
+
+学位：Master of Engineering in Computer Science 计算机专业工学硕士
+
+专业：computer science and Technology 计算机科学与技术
+
+时间：2000-2004
+
+国外大学：University of Florida 弗罗里达大学
+
+学位：M.S
+
+专业：computer science and Technology 计算机科学与技术
+
+时间：2004-2007 MS
+
+职位：system engineer 系统工程师
+
+公司：Microsoft
+
+地址：Redmond, Washington, United States
+
+时间：Jul 2007 - Jul 2014
+
+内容：
+
+a) TV tuner and FM tuner product algorithm development/implementation including I/Q mismatch calibration, analog TV demodulator architecture prototype, carrier recovery phase lock loop, RX AGC, asynchronous sample rate conversion, and tracking filter tuning, etc.
+
+b) Hybrid TV tuner architect and system including collaborative work in TV tuner analog/digital frontend architecture, end to end simulation model, design specification, functionality verification, and product ramp up.
+
+a) 电视调谐器和调频调谐器产品算法开发/实现，包括I/Q失配校准、模拟电视解调器架构原型、载波恢复锁相环、RX AGC、异步采样率转换和跟踪滤波器调谐等。
+
+b) 混合电视调谐器架构师和系统，包括在电视调谐器模拟/数字前端架构、端到端仿真模型、设计规范、功能验证和产品升级方面的协同工作。
+
+职位：Senior System Architect 高级软件架构师
+
+公司：Nvidia 英伟达
+
+地址：San Francisoco Bay Area
+
+时间：Jul 2014 - Dec 2017
+
+内容：Responsible for the development and maintenance of business projects, conduct demand analysis, software design and coding implementation, and ensure safety, quality and performance;
+
+Complete the preparation of relevant documents for each stage according to the development specifications and processes;
+
+Participate in team culture building and organize internal knowledge sharing discussions
+
+Responsible for the development of the related software system architecture of the AIOT department;
+
+According to the functions required by the scene, design and implement the relevant software system architecture
+
+Responsible for the communication between the company and the scientific research management department, including the application of software copyright and software product certificates, the preparation of patents, the preparation and reporting of annual scientific research plans
+
+负责业务项目的开发和维护，进行需求分析.软件设计和编码实现，确保安全.质量和性能；
+
+根据开发规范与流程完成每个阶段的相关文档的编写；
+
+参与团队文化建设，组织内部知识分享讨论
+
+负责AIOT部门相关软件系统架构方面相关的开发；
+
+根据场景所需的功能，设计和实现相关软件系统架构
+
+负责公司内部与科研管理部门的沟通，包括软件著作权.软件产品证书的申请，专利的编写，年度科研计划的编制和汇报
+
+职位：Chief Software Architect 首席软件架构师 行业：Computer hardware manufacturing 95051
+
+公司：Nvidia 英伟达
+
+地址; San Francisoco Bay Area
+
+时间：Jan 2018 - Current Computer Hardware Manufacturing
+
+内容：
+
+Build features, APIs, services, and tools for the Triton Inference Server. -Become a team leader and active member of the open source deep learning software engineering community. Balance various goals: design robust software that can be deployed in production servers or cloud settings; understand new customer use cases; collaborate with product teams to define new features; load balance asynchronous requests across available resources; optimize forecast throughput under latency constraints; And integrate the latest open source technologies. As the team lead, I'll set project priorities; mentor junior engineers; and work with customers, partners, and management to align key features with monthly releases.
+
+为 Triton 推理服务器构建功能、API、服务和工具。成为开源深度学习软件工程社区的团队领导者和活跃成员。平衡各种目标：设计可部署在生产服务器或云设置中的健壮软件；了解新的客户用例；与产品团队合作定义新功能；跨可用资源负载平衡异步请求；在延迟约束下优化预测吞吐量；并集成最新的开源技术。作为团队负责人，我将设定项目优先级；指导初级工程师；与客户、合作伙伴和管理层合作，使关键功能与每月发布保持一致。
+
+技能：
+
+DevOps Automation
+
+Production Engineering SRE
+
+Data Engineering
+
+Architecture Analysis
+
+Machine Learning
+
+Artificial Intelligence
+
+AWS refines the framework
+
+Hypervisor
